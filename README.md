@@ -1,4 +1,5 @@
 ### Hi there 👋
+<div markdown="1">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thissop&theme=monokai&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thissop&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

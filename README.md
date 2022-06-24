@@ -1,4 +1,7 @@
 # Hi there 👋
+
+![lol](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png)
+
 <!--
 ![thissop's GitHub stats](https://github-readme-stats.vercel.app/api?username=thissop&theme=monokai&show_icons=true)
 
